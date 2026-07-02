@@ -4,9 +4,9 @@
 <br/>
 
 - 🔭 I'm currently a sophomore at Rice University.
-- 🌱 I'm currently learning about **NLPs (Natural Language Processing) and GNNs (Graph Neural Networks)**
+- 🌱 I'm currently learning about **NLPs (Natural Language Processing) and GNNs (Graph Neural Networks)**.
 - 📝 I try to stay updated on LinkedIn, but I am not particularly drawn to "tooting my horn."
-- 💬 Ask me about **Python, AI/ML, PyTorch, TensorFlow, Pandas and Reasoning AI Models**
+- 💬 Ask me about **Python, AI/ML, PyTorch, TensorFlow, Pandas and Reasoning AI Models**.
 - ⚡ Fun fact — **I'm working on a reasoning AI model that is currently under private development as a proof-of-concept.**
 
 ---
