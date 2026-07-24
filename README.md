@@ -50,15 +50,6 @@
 
 ---
 
-| Project | Description | Link |
-|---|---|---|
-| **Eidos** | A "reasoning" AI model that is currently **private** and under private development. | [Eidos](https://github.com/mikemao27/Eidos) |
-| **DiffusionLLMs** | Undergraduate research in diffusion LLM memory-bandwidth improvements and runtime efficiency through a custom Triton kernel on Fast-dLLM v2. | [DiffusionLLMs](https://github.com/mikemao27/DiffusionLLMs) |
-| **Hybrid Router** | RouterArena leaderboard submission (#7) routing queries between `qwen3-235b-a22b`, `qwen3-30b-a3b`, and `ministral-3b` models. | [Hybrid Router](https://github.com/mikemao27/RouterArena) |
-| **GraphLite** | A custom Python library for standard graph traversal and visualization with built in BFS, DFS, A*, Dijkstra's, Prim's, and other standard graph algorithms. | [GraphLite](https://github.com/mikemao27/GraphLite) |
-
----
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikemao27&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
