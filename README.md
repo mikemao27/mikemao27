@@ -16,7 +16,7 @@ Just to keep things direct, my primary interest revolves around AI/ML. Rather th
 > [!IMPORTANT]
 > It is my personal belief that the point of technological innovation is not to accumulate vast quantities of capital or fame. Those may naturally follow major technological innovations, but I do not personally feel as if they are the reason why we should innovate. A major part of innovation requires collaborations between groups and ideas that may not have otherwise seemed possible, as well as transparency and access. Thus, I view the open-source movement to be especially important to the unending development of equitable technology. As such, I make most, if not all, of the projects I personally feel to have a met a certain bar of quality open-source and public for all to use (with a license attached: often-times an Apache 2.0 license).
 
---
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikemao27&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
